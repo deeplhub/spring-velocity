@@ -11,7 +11,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-		<spring.version>4.3.13.RELEASE</spring.version>
+		<spring.version>4.3.18.RELEASE</spring.version>
 		<commons.lang3.version>3.7</commons.lang3.version>
 		<commons.io.version>2.6</commons.io.version>
 		<junit.version>3.8.1</junit.version>
@@ -20,7 +20,7 @@
 		<slf4j.version>1.7.25</slf4j.version>
 
 		<servlet.version>3.1.0</servlet.version>
-		<jackson.version>2.9.0</jackson.version>
+		<jackson.version>2.9.8</jackson.version>
 		<velocity.version>2.0</velocity.version>
 		<velocity.tools>2.0</velocity.tools>
 	</properties>
